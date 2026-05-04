@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.png" alt="AutoPlate AI Banner" width="100%" />
+
 
   <h1>🛡️ AutoPlate AI</h1>
   <p><strong>Smart Automatic Number Plate Recognition (ANPR) Dashboard</strong></p>
-
+  <img src="banner.png" alt="AutoPlate AI Banner" width="100%" />
   <p>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge" alt="License: MIT"></a>
     <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Version"></a>
@@ -36,15 +36,21 @@ It features a sleek, dark-mode-ready UI built with Tailwind CSS, served locally 
 
 <div align="center">
   <figure>
-    <img src="docs/dashboard.png" alt="Dashboard Overview" width="85%" />
+    <img src="dashboard.png" alt="Dashboard Overview" width="85%" />
     <br>
     <figcaption><b>Figure 1:</b> Main Dashboard Interface</figcaption>
   </figure>
   <br><br>
   <figure>
-    <img src="docs/sample_result.jpg" alt="Sample Result" width="85%" />
+    <img src="result1.png" alt="Sample Result" width="85%" />
     <br>
-    <figcaption><b>Figure 2:</b> High-Accuracy Plate Detection & OCR Extraction</figcaption>
+    <figcaption><b>Figure 2:</b> High-Accuracy Plate Detection & OCR Extraction Result 1</figcaption>
+  </figure>
+    <br><br>
+  <figure>
+    <img src="result2.png" alt="Sample Result" width="85%" />
+    <br>
+    <figcaption><b>Figure 2:</b> High-Accuracy Plate Detection & OCR Extraction Result 2</figcaption>
   </figure>
 </div>
 
