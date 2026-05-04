@@ -111,8 +111,8 @@ Follow these steps to run AutoPlate AI locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/migolabs/autoplate-ai.git
-cd autoplate-ai
+git clone https://github.com/hasithaInduwaraUdagangoda/AutoPlate-AI.git
+cd AutoPlate-AI
 ```
 
 ### 2. Set Up a Virtual Environment
