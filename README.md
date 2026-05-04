@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/banner.png" alt="AutoPlate AI Banner" width="100%" />
+  <img src="banner.png" alt="AutoPlate AI Banner" width="100%" />
 
   <h1>🛡️ AutoPlate AI</h1>
   <p><strong>Smart Automatic Number Plate Recognition (ANPR) Dashboard</strong></p>
