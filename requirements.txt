@@ -1,0 +1,7 @@
+Flask
+requests
+opencv-python-headless
+easyocr
+gunicorn
+werkzeug
+python-dotenv
